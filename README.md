@@ -39,11 +39,5 @@ After feeding the video data, posenet returns pose with a confidence score and a
 - react-dom
 - react-router-dom
 - react-scripts
-- tone
+- tone.js
 
-### Acknowledgements
-
-- [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
-- [Tensorflowjs](https://www.tensorflow.org/js)
-- [ToneJs](https://tonejs.github.io/)
-- Lighthouse Labs
