@@ -1,10 +1,8 @@
 ## JamCam
 
-**JamCam** lets you control beats and sounds with your body, by just using your webcam. This React frontend app lets you make music via the position of your body detected by your webcam and even download them to play offline later.
-Just like the music JamCam makes is a beautiful harmony, our design philosophy is a harmony of two core principles:
+**JamCam** lets you control beats and sounds with your body, by just using your webcam.
 
-1. **Minimalistic and simple :** easy to understand and make music, Users can pick up and play without any prior knowledge of making music (or even rhythm) to make something that sounds cool right away.
-2. **Joyful and addictive :** introducing a very interactive and fun way to make music, no instruments to master, no jargon, just move your body and make cool music.
+[Try it here](https://jam-cam.herokuapp.com/)
 
 ### JamCam team
 
